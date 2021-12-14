@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorRed">#FF5252</color>
+    <color name="colorHijau">#00C853</color>
+
+    <color name="colorText">#101115</color>
+    <color name="colorBackground">#FFFF</color>
+    <color name="colorCardview">#FAFAFA</color>
+    <color name="colorGrey">#8B8B8B</color>
+    <color name="colorIcon">#FF000000</color>
+    <color name="colorPurple">#6200EE</color>
+    <color name="colorPurple2">#6200EE</color>
+
+    <color name="colorTextTertiary">#EFEFEF</color>
+
+    <color name="colorItem2Start">#4D79FF</color>
+    <color name="colorItem2End">#0039E6</color>
+
+    <color name="colorItem4Start">#00B33C</color>
+    <color name="colorItem4End">#00A11D</color>
+
+    <color name="colorEndBackground">#54FFFFFF</color>
+</resources>
